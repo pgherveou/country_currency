@@ -1,0 +1,1496 @@
+{
+  "AD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Andorra",
+    "link": "/wiki/Andorra"
+  },
+  "AE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "United Arab Emirates",
+    "link": "/wiki/United_Arab_Emirates"
+  },
+  "AF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Afghanistan",
+    "link": "/wiki/Afghanistan"
+  },
+  "AG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Antigua and Barbuda",
+    "link": "/wiki/Antigua_and_Barbuda"
+  },
+  "AI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Anguilla",
+    "link": "/wiki/Anguilla"
+  },
+  "AL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Albania",
+    "link": "/wiki/Albania"
+  },
+  "AM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Armenia",
+    "link": "/wiki/Armenia"
+  },
+  "AO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Angola",
+    "link": "/wiki/Angola"
+  },
+  "AQ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Antarctica",
+    "link": "/wiki/Antarctica"
+  },
+  "AR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Argentina",
+    "link": "/wiki/Argentina"
+  },
+  "AS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "American Samoa",
+    "link": "/wiki/American_Samoa"
+  },
+  "AT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Austria",
+    "link": "/wiki/Austria"
+  },
+  "AU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Australia",
+    "link": "/wiki/Australia"
+  },
+  "AW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Aruba",
+    "link": "/wiki/Aruba"
+  },
+  "AX": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Aland Islands !Åland Islands",
+    "link": "/wiki/%C3%85land_Islands"
+  },
+  "AZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Azerbaijan",
+    "link": "/wiki/Azerbaijan"
+  },
+  "BA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bosnia and Herzegovina",
+    "link": "/wiki/Bosnia_and_Herzegovina"
+  },
+  "BB": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Barbados",
+    "link": "/wiki/Barbados"
+  },
+  "BD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bangladesh",
+    "link": "/wiki/Bangladesh"
+  },
+  "BE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Belgium",
+    "link": "/wiki/Belgium"
+  },
+  "BF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Burkina Faso",
+    "link": "/wiki/Burkina_Faso"
+  },
+  "BG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bulgaria",
+    "link": "/wiki/Bulgaria"
+  },
+  "BH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bahrain",
+    "link": "/wiki/Bahrain"
+  },
+  "BI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Burundi",
+    "link": "/wiki/Burundi"
+  },
+  "BJ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Benin",
+    "link": "/wiki/Benin"
+  },
+  "BL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Barthélemy",
+    "link": "/wiki/Saint_Barth%C3%A9lemy"
+  },
+  "BM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bermuda",
+    "link": "/wiki/Bermuda"
+  },
+  "BN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Brunei Darussalam",
+    "link": "/wiki/Brunei"
+  },
+  "BO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bolivia, Plurinational State of",
+    "link": "/wiki/Bolivia"
+  },
+  "BQ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "link": "/wiki/Caribbean_Netherlands"
+  },
+  "BR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Brazil",
+    "link": "/wiki/Brazil"
+  },
+  "BS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bahamas",
+    "link": "/wiki/The_Bahamas"
+  },
+  "BT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bhutan",
+    "link": "/wiki/Bhutan"
+  },
+  "BV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Bouvet Island",
+    "link": "/wiki/Bouvet_Island"
+  },
+  "BW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Botswana",
+    "link": "/wiki/Botswana"
+  },
+  "BY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Belarus",
+    "link": "/wiki/Belarus"
+  },
+  "BZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Belize",
+    "link": "/wiki/Belize"
+  },
+  "CA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Canada",
+    "link": "/wiki/Canada"
+  },
+  "CC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cocos (Keeling) Islands",
+    "link": "/wiki/Cocos_(Keeling)_Islands"
+  },
+  "CD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Congo, the Democratic Republic of the",
+    "link": "/wiki/Democratic_Republic_of_the_Congo"
+  },
+  "CF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Central African Republic",
+    "link": "/wiki/Central_African_Republic"
+  },
+  "CG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Congo",
+    "link": "/wiki/Republic_of_the_Congo"
+  },
+  "CH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Switzerland",
+    "link": "/wiki/Switzerland"
+  },
+  "CI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cote d'Ivoire !Côte d'Ivoire",
+    "link": "/wiki/C%C3%B4te_d%27Ivoire"
+  },
+  "CK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cook Islands",
+    "link": "/wiki/Cook_Islands"
+  },
+  "CL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Chile",
+    "link": "/wiki/Chile"
+  },
+  "CM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cameroon",
+    "link": "/wiki/Cameroon"
+  },
+  "CN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "China",
+    "link": "/wiki/China"
+  },
+  "CO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Colombia",
+    "link": "/wiki/Colombia"
+  },
+  "CR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Costa Rica",
+    "link": "/wiki/Costa_Rica"
+  },
+  "CU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cuba",
+    "link": "/wiki/Cuba"
+  },
+  "CV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cape Verde",
+    "link": "/wiki/Cape_Verde"
+  },
+  "CW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Curaçao",
+    "link": "/wiki/Cura%C3%A7ao"
+  },
+  "CX": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Christmas Island",
+    "link": "/wiki/Christmas_Island"
+  },
+  "CY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cyprus",
+    "link": "/wiki/Cyprus"
+  },
+  "CZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Czech Republic",
+    "link": "/wiki/Czech_Republic"
+  },
+  "DE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Germany",
+    "link": "/wiki/Germany"
+  },
+  "DJ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Djibouti",
+    "link": "/wiki/Djibouti"
+  },
+  "DK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Denmark",
+    "link": "/wiki/Denmark"
+  },
+  "DM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Dominica",
+    "link": "/wiki/Dominica"
+  },
+  "DO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Dominican Republic",
+    "link": "/wiki/Dominican_Republic"
+  },
+  "DZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Algeria",
+    "link": "/wiki/Algeria"
+  },
+  "EC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Ecuador",
+    "link": "/wiki/Ecuador"
+  },
+  "EE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Estonia",
+    "link": "/wiki/Estonia"
+  },
+  "EG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Egypt",
+    "link": "/wiki/Egypt"
+  },
+  "EH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Western Sahara",
+    "link": "/wiki/Western_Sahara"
+  },
+  "ER": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Eritrea",
+    "link": "/wiki/Eritrea"
+  },
+  "ES": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Spain",
+    "link": "/wiki/Spain"
+  },
+  "ET": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Ethiopia",
+    "link": "/wiki/Ethiopia"
+  },
+  "FI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Finland",
+    "link": "/wiki/Finland"
+  },
+  "FJ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Fiji",
+    "link": "/wiki/Fiji"
+  },
+  "FK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Falkland Islands (Malvinas)",
+    "link": "/wiki/Falkland_Islands"
+  },
+  "FM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Micronesia, Federated States of",
+    "link": "/wiki/Federated_States_of_Micronesia"
+  },
+  "FO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Faroe Islands",
+    "link": "/wiki/Faroe_Islands"
+  },
+  "FR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "France",
+    "link": "/wiki/France"
+  },
+  "GA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Gabon",
+    "link": "/wiki/Gabon"
+  },
+  "GB": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "United Kingdom",
+    "link": "/wiki/United_Kingdom"
+  },
+  "GD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Grenada",
+    "link": "/wiki/Grenada"
+  },
+  "GE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Georgia",
+    "link": "/wiki/Georgia_(country)"
+  },
+  "GF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "French Guiana",
+    "link": "/wiki/French_Guiana"
+  },
+  "GG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guernsey",
+    "link": "/wiki/Guernsey"
+  },
+  "GH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Ghana",
+    "link": "/wiki/Ghana"
+  },
+  "GI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Gibraltar",
+    "link": "/wiki/Gibraltar"
+  },
+  "GL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Greenland",
+    "link": "/wiki/Greenland"
+  },
+  "GM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Gambia",
+    "link": "/wiki/The_Gambia"
+  },
+  "GN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guinea",
+    "link": "/wiki/Guinea"
+  },
+  "GP": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guadeloupe",
+    "link": "/wiki/Guadeloupe"
+  },
+  "GQ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Equatorial Guinea",
+    "link": "/wiki/Equatorial_Guinea"
+  },
+  "GR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Greece",
+    "link": "/wiki/Greece"
+  },
+  "GS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "South Georgia and the South Sandwich Islands",
+    "link": "/wiki/South_Georgia_and_the_South_Sandwich_Islands"
+  },
+  "GT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guatemala",
+    "link": "/wiki/Guatemala"
+  },
+  "GU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guam",
+    "link": "/wiki/Guam"
+  },
+  "GW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guinea-Bissau",
+    "link": "/wiki/Guinea-Bissau"
+  },
+  "GY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Guyana",
+    "link": "/wiki/Guyana"
+  },
+  "HK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Hong Kong",
+    "link": "/wiki/Hong_Kong"
+  },
+  "HM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Heard Island and McDonald Islands",
+    "link": "/wiki/Heard_Island_and_McDonald_Islands"
+  },
+  "HN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Honduras",
+    "link": "/wiki/Honduras"
+  },
+  "HR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Croatia",
+    "link": "/wiki/Croatia"
+  },
+  "HT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Haiti",
+    "link": "/wiki/Haiti"
+  },
+  "HU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Hungary",
+    "link": "/wiki/Hungary"
+  },
+  "ID": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Indonesia",
+    "link": "/wiki/Indonesia"
+  },
+  "IE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Ireland",
+    "link": "/wiki/Republic_of_Ireland"
+  },
+  "IL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Israel",
+    "link": "/wiki/Israel"
+  },
+  "IM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Isle of Man",
+    "link": "/wiki/Isle_of_Man"
+  },
+  "IN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "India",
+    "link": "/wiki/India"
+  },
+  "IO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "British Indian Ocean Territory",
+    "link": "/wiki/British_Indian_Ocean_Territory"
+  },
+  "IQ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Iraq",
+    "link": "/wiki/Iraq"
+  },
+  "IR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Iran, Islamic Republic of",
+    "link": "/wiki/Iran"
+  },
+  "IS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Iceland",
+    "link": "/wiki/Iceland"
+  },
+  "IT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Italy",
+    "link": "/wiki/Italy"
+  },
+  "JE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Jersey",
+    "link": "/wiki/Jersey"
+  },
+  "JM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Jamaica",
+    "link": "/wiki/Jamaica"
+  },
+  "JO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Jordan",
+    "link": "/wiki/Jordan"
+  },
+  "JP": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Japan",
+    "link": "/wiki/Japan"
+  },
+  "KE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Kenya",
+    "link": "/wiki/Kenya"
+  },
+  "KG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Kyrgyzstan",
+    "link": "/wiki/Kyrgyzstan"
+  },
+  "KH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cambodia",
+    "link": "/wiki/Cambodia"
+  },
+  "KI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Kiribati",
+    "link": "/wiki/Kiribati"
+  },
+  "KM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Comoros",
+    "link": "/wiki/Comoros"
+  },
+  "KN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Kitts and Nevis",
+    "link": "/wiki/Saint_Kitts_and_Nevis"
+  },
+  "KP": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Korea, Democratic People's Republic of",
+    "link": "/wiki/North_Korea"
+  },
+  "KR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Korea, Republic of",
+    "link": "/wiki/South_Korea"
+  },
+  "KW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Kuwait",
+    "link": "/wiki/Kuwait"
+  },
+  "KY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Cayman Islands",
+    "link": "/wiki/Cayman_Islands"
+  },
+  "KZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Kazakhstan",
+    "link": "/wiki/Kazakhstan"
+  },
+  "LA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Lao People's Democratic Republic",
+    "link": "/wiki/Laos"
+  },
+  "LB": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Lebanon",
+    "link": "/wiki/Lebanon"
+  },
+  "LC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Lucia",
+    "link": "/wiki/Saint_Lucia"
+  },
+  "LI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Liechtenstein",
+    "link": "/wiki/Liechtenstein"
+  },
+  "LK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sri Lanka",
+    "link": "/wiki/Sri_Lanka"
+  },
+  "LR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Liberia",
+    "link": "/wiki/Liberia"
+  },
+  "LS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Lesotho",
+    "link": "/wiki/Lesotho"
+  },
+  "LT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Lithuania",
+    "link": "/wiki/Lithuania"
+  },
+  "LU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Luxembourg",
+    "link": "/wiki/Luxembourg"
+  },
+  "LV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Latvia",
+    "link": "/wiki/Latvia"
+  },
+  "LY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Libya",
+    "link": "/wiki/Libya"
+  },
+  "MA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Morocco",
+    "link": "/wiki/Morocco"
+  },
+  "MC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Monaco",
+    "link": "/wiki/Monaco"
+  },
+  "MD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Moldova, Republic of",
+    "link": "/wiki/Moldova"
+  },
+  "ME": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Montenegro",
+    "link": "/wiki/Montenegro"
+  },
+  "MF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Martin (French part)",
+    "link": "/wiki/Collectivity_of_Saint_Martin"
+  },
+  "MG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Madagascar",
+    "link": "/wiki/Madagascar"
+  },
+  "MH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Marshall Islands",
+    "link": "/wiki/Marshall_Islands"
+  },
+  "MK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Macedonia, the former Yugoslav Republic of",
+    "link": "/wiki/Republic_of_Macedonia"
+  },
+  "ML": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mali",
+    "link": "/wiki/Mali"
+  },
+  "MM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Myanmar",
+    "link": "/wiki/Myanmar"
+  },
+  "MN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mongolia",
+    "link": "/wiki/Mongolia"
+  },
+  "MO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Macao",
+    "link": "/wiki/Macau"
+  },
+  "MP": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Northern Mariana Islands",
+    "link": "/wiki/Northern_Mariana_Islands"
+  },
+  "MQ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Martinique",
+    "link": "/wiki/Martinique"
+  },
+  "MR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mauritania",
+    "link": "/wiki/Mauritania"
+  },
+  "MS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Montserrat",
+    "link": "/wiki/Montserrat"
+  },
+  "MT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Malta",
+    "link": "/wiki/Malta"
+  },
+  "MU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mauritius",
+    "link": "/wiki/Mauritius"
+  },
+  "MV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Maldives",
+    "link": "/wiki/Maldives"
+  },
+  "MW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Malawi",
+    "link": "/wiki/Malawi"
+  },
+  "MX": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mexico",
+    "link": "/wiki/Mexico"
+  },
+  "MY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Malaysia",
+    "link": "/wiki/Malaysia"
+  },
+  "MZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mozambique",
+    "link": "/wiki/Mozambique"
+  },
+  "NA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Namibia",
+    "link": "/wiki/Namibia"
+  },
+  "NC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "New Caledonia",
+    "link": "/wiki/New_Caledonia"
+  },
+  "NE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Niger",
+    "link": "/wiki/Niger"
+  },
+  "NF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Norfolk Island",
+    "link": "/wiki/Norfolk_Island"
+  },
+  "NG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Nigeria",
+    "link": "/wiki/Nigeria"
+  },
+  "NI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Nicaragua",
+    "link": "/wiki/Nicaragua"
+  },
+  "NL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Netherlands",
+    "link": "/wiki/Netherlands"
+  },
+  "NO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Norway",
+    "link": "/wiki/Norway"
+  },
+  "NP": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Nepal",
+    "link": "/wiki/Nepal"
+  },
+  "NR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Nauru",
+    "link": "/wiki/Nauru"
+  },
+  "NU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Niue",
+    "link": "/wiki/Niue"
+  },
+  "NZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "New Zealand",
+    "link": "/wiki/New_Zealand"
+  },
+  "OM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Oman",
+    "link": "/wiki/Oman"
+  },
+  "PA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Panama",
+    "link": "/wiki/Panama"
+  },
+  "PE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Peru",
+    "link": "/wiki/Peru"
+  },
+  "PF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "French Polynesia",
+    "link": "/wiki/French_Polynesia"
+  },
+  "PG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Papua New Guinea",
+    "link": "/wiki/Papua_New_Guinea"
+  },
+  "PH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Philippines",
+    "link": "/wiki/Philippines"
+  },
+  "PK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Pakistan",
+    "link": "/wiki/Pakistan"
+  },
+  "PL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Poland",
+    "link": "/wiki/Poland"
+  },
+  "PM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Pierre and Miquelon",
+    "link": "/wiki/Saint_Pierre_and_Miquelon"
+  },
+  "PN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Pitcairn",
+    "link": "/wiki/Pitcairn_Islands"
+  },
+  "PR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Puerto Rico",
+    "link": "/wiki/Puerto_Rico"
+  },
+  "PS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Palestine, State of",
+    "link": "/wiki/State_of_Palestine"
+  },
+  "PT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Portugal",
+    "link": "/wiki/Portugal"
+  },
+  "PW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Palau",
+    "link": "/wiki/Palau"
+  },
+  "PY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Paraguay",
+    "link": "/wiki/Paraguay"
+  },
+  "QA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Qatar",
+    "link": "/wiki/Qatar"
+  },
+  "RE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Reunion !Réunion",
+    "link": "/wiki/R%C3%A9union"
+  },
+  "RO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Romania",
+    "link": "/wiki/Romania"
+  },
+  "RS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Serbia",
+    "link": "/wiki/Serbia"
+  },
+  "RU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Russian Federation",
+    "link": "/wiki/Russia"
+  },
+  "RW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Rwanda",
+    "link": "/wiki/Rwanda"
+  },
+  "SA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saudi Arabia",
+    "link": "/wiki/Saudi_Arabia"
+  },
+  "SB": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Solomon Islands",
+    "link": "/wiki/Solomon_Islands"
+  },
+  "SC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Seychelles",
+    "link": "/wiki/Seychelles"
+  },
+  "SD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sudan",
+    "link": "/wiki/Sudan"
+  },
+  "SE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sweden",
+    "link": "/wiki/Sweden"
+  },
+  "SG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Singapore",
+    "link": "/wiki/Singapore"
+  },
+  "SH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "link": "/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha"
+  },
+  "SI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Slovenia",
+    "link": "/wiki/Slovenia"
+  },
+  "SJ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Svalbard and Jan Mayen",
+    "link": "/wiki/Svalbard_and_Jan_Mayen"
+  },
+  "SK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Slovakia",
+    "link": "/wiki/Slovakia"
+  },
+  "SL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sierra Leone",
+    "link": "/wiki/Sierra_Leone"
+  },
+  "SM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "San Marino",
+    "link": "/wiki/San_Marino"
+  },
+  "SN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Senegal",
+    "link": "/wiki/Senegal"
+  },
+  "SO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Somalia",
+    "link": "/wiki/Somalia"
+  },
+  "SR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Suriname",
+    "link": "/wiki/Suriname"
+  },
+  "SS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "South Sudan",
+    "link": "/wiki/South_Sudan"
+  },
+  "ST": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sao Tome and Principe",
+    "link": "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+  },
+  "SV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "El Salvador",
+    "link": "/wiki/El_Salvador"
+  },
+  "SX": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Sint Maarten (Dutch part)",
+    "link": "/wiki/Sint_Maarten"
+  },
+  "SY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Syrian Arab Republic",
+    "link": "/wiki/Syria"
+  },
+  "SZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Swaziland",
+    "link": "/wiki/Swaziland"
+  },
+  "TC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Turks and Caicos Islands",
+    "link": "/wiki/Turks_and_Caicos_Islands"
+  },
+  "TD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Chad",
+    "link": "/wiki/Chad"
+  },
+  "TF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "French Southern Territories",
+    "link": "/wiki/French_Southern_and_Antarctic_Lands"
+  },
+  "TG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Togo",
+    "link": "/wiki/Togo"
+  },
+  "TH": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Thailand",
+    "link": "/wiki/Thailand"
+  },
+  "TJ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tajikistan",
+    "link": "/wiki/Tajikistan"
+  },
+  "TK": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tokelau",
+    "link": "/wiki/Tokelau"
+  },
+  "TL": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Timor-Leste",
+    "link": "/wiki/East_Timor"
+  },
+  "TM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Turkmenistan",
+    "link": "/wiki/Turkmenistan"
+  },
+  "TN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tunisia",
+    "link": "/wiki/Tunisia"
+  },
+  "TO": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tonga",
+    "link": "/wiki/Tonga"
+  },
+  "TR": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Turkey",
+    "link": "/wiki/Turkey"
+  },
+  "TT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Trinidad and Tobago",
+    "link": "/wiki/Trinidad_and_Tobago"
+  },
+  "TV": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tuvalu",
+    "link": "/wiki/Tuvalu"
+  },
+  "TW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Taiwan, Province of China",
+    "link": "/wiki/Taiwan"
+  },
+  "TZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Tanzania, United Republic of",
+    "link": "/wiki/Tanzania"
+  },
+  "UA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Ukraine",
+    "link": "/wiki/Ukraine"
+  },
+  "UG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Uganda",
+    "link": "/wiki/Uganda"
+  },
+  "UM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "United States Minor Outlying Islands",
+    "link": "/wiki/United_States_Minor_Outlying_Islands"
+  },
+  "US": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "United States",
+    "link": "/wiki/United_States"
+  },
+  "UY": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Uruguay",
+    "link": "/wiki/Uruguay"
+  },
+  "UZ": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Uzbekistan",
+    "link": "/wiki/Uzbekistan"
+  },
+  "VA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Holy See (Vatican City State)",
+    "link": "/wiki/Vatican_City"
+  },
+  "VC": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Saint Vincent and the Grenadines",
+    "link": "/wiki/Saint_Vincent_and_the_Grenadines"
+  },
+  "VE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Venezuela, Bolivarian Republic of",
+    "link": "/wiki/Venezuela"
+  },
+  "VG": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Virgin Islands, British",
+    "link": "/wiki/British_Virgin_Islands"
+  },
+  "VI": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Virgin Islands, U.S.",
+    "link": "/wiki/United_States_Virgin_Islands"
+  },
+  "VN": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Viet Nam",
+    "link": "/wiki/Vietnam"
+  },
+  "VU": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Vanuatu",
+    "link": "/wiki/Vanuatu"
+  },
+  "WF": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Wallis and Futuna",
+    "link": "/wiki/Wallis_and_Futuna"
+  },
+  "WS": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Samoa",
+    "link": "/wiki/Samoa"
+  },
+  "YE": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Yemen",
+    "link": "/wiki/Yemen"
+  },
+  "YT": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Mayotte",
+    "link": "/wiki/Mayotte"
+  },
+  "ZA": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "South Africa",
+    "link": "/wiki/South_Africa"
+  },
+  "ZM": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Zambia",
+    "link": "/wiki/Zambia"
+  },
+  "ZW": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "Zimbabwe",
+    "link": "/wiki/Zimbabwe"
+  }
+}
