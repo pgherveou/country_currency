@@ -1,6 +1,6 @@
 {
   "name": "country_currency",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "country currency mapping lib",
   "main": "index.js",
   "repository": {
