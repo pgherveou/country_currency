@@ -14,10 +14,14 @@
   ],
   "author": "Pierre Herveou",
   "license": "MIT",
+
   "dependencies": {
   },
+
   "devDependencies": {
-    "jsdon": "*",
-    "superagent": "*"
+    "superagent": "*",
+    "jsdom": "*",
+    "mocha": "*",
+    "chai": "*"
   }
 }
